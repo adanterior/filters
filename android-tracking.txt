@@ -12,7 +12,7 @@ a-graph.facebook.com
 graph.instagram.com
 b-api.facebook.com
 # edge-mqtt.facebook.com # needed for facebook groups
-mqtt-mini.facebook.com
+# mqtt-mini.facebook.com # messenger lite
 
 # Crashlytics
 e.crashlytics.com
