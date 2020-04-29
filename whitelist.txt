@@ -105,6 +105,7 @@ cdn.fbsbx.com
 api.facebook.com
 edge-mqtt.facebook.com
 mqtt.c10r.facebook.com
+mqtt-mini.facebook.com
 portal.fb.com
 star.c10r.facebook.com
 star-mini.c10r.facebook.com
